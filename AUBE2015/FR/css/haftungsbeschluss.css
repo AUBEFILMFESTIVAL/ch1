@@ -1,0 +1,88 @@
+.version.haftungsbeschluss /* version checker */
+{
+	color: #0000FF;
+	background-color: #FDCA5E;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 1215px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 20px 934px;
+}
+
+#pu2520-4
+{
+	width: 0.01px;
+}
+
+#u2520-4
+{
+	z-index: 89;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2521-4
+{
+	z-index: 93;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: -1px;
+}
+
+#u2519-87
+{
+	z-index: 2;
+	width: 920px;
+	background-color: transparent;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u2519-5,#u2519-7,#u2519-9,#u2519-11,#u2519-18,#u2519-25,#u2519-27,#u2519-29,#u2519-36,#u2519-43,#u2519-50,#u2519-52,#u2519-54,#u2519-61,#u2519-63,#u2519-65,#u2519-72,#u2519-74,#u2519-76,#u2519-83
+{
+	text-align: justify;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u2519-4,#u2519-6,#u2519-8,#u2519-10,#u2519-17,#u2519-24,#u2519-26,#u2519-28,#u2519-35,#u2519-42,#u2519-49,#u2519-51,#u2519-53,#u2519-60,#u2519-62,#u2519-64,#u2519-71,#u2519-73,#u2519-75,#u2519-82
+{
+	line-height: 19px;
+}
+
+#u2519,#u2519-3,#u2519-12,#u2519-13,#u2519-15,#u2519-16,#u2519-19,#u2519-20,#u2519-22,#u2519-23,#u2519-30,#u2519-31,#u2519-33,#u2519-34,#u2519-37,#u2519-38,#u2519-40,#u2519-41,#u2519-44,#u2519-45,#u2519-47,#u2519-48,#u2519-55,#u2519-56,#u2519-58,#u2519-59,#u2519-66,#u2519-67,#u2519-69,#u2519-70,#u2519-77,#u2519-78,#u2519-80,#u2519-81,#u2519-84
+{
+	text-align: justify;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 86px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

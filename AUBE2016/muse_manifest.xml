@@ -1,0 +1,183 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="FTP" domain="aubefilmfestival.ch" resolutions="1x" timestamp="1475483820831" ftp_hostname="ftp://ftp.aubefilmfestival.ch" ftp_rootfolder="/">
+  <folder name="css">
+    <file name="site_global.css" crc="267925115"/>
+    <file name="master_site2016.css" crc="28736343" ref="festival:programm:index:träger:tickets"/>
+    <file name="nomq_preview_master_site2016.css" crc="4192269353" ref="festival:programm:index:träger:tickets"/>
+    <file name="festival.css" crc="51082856" ref="festival"/>
+    <file name="nomq_festival.css" crc="161062457" ref="festival"/>
+    <file name="philosophie.css" crc="4266366742" ref="philosophie"/>
+    <file name="nomq_philosophie.css" crc="268825954" ref="philosophie"/>
+    <file name="hintergrund.css" crc="4000726005" ref="hintergrund"/>
+    <file name="nomq_hintergrund.css" crc="3878323981" ref="hintergrund"/>
+    <file name="programm.css" crc="4249709542" ref="programm"/>
+    <file name="nomq_programm.css" crc="3812933841" ref="programm"/>
+    <file name="index.css" crc="433185409" ref="index"/>
+    <file name="nomq_index.css" crc="3848986028" ref="index"/>
+    <file name="tr_ger.css" crc="108807262" ref="träger"/>
+    <file name="nomq_tr_ger.css" crc="470658781" ref="träger"/>
+    <file name="tickets.css" crc="163391977" ref="tickets"/>
+    <file name="nomq_tickets.css" crc="3830647725" ref="tickets"/>
+    <file name="festival-2015.css" crc="4009671366" ref="festival-2015"/>
+    <file name="haftungsbeschluss.css" crc="4136450828" ref="haftungsbeschluss"/>
+  </folder>
+  <folder name="assets">
+    <file name="in-the-sands-of-babylon.jpg" crc="4001781341" seo="true" mt="1472718050000"/>
+    <file name="aube.jpg" crc="213865559" seo="true" mt="1472726280000"/>
+    <file name="return-to-homs.jpg" crc="3854265480" seo="true" mt="1472804741000"/>
+    <file name="balimage.jpg" crc="190051497" seo="true" mt="1472688149000"/>
+    <file name="homeland_iraq_year_zero_1.jpg" crc="332964147" seo="true" mt="1472686666000"/>
+    <file name="the-secret-of-seven-sisters.jpg" crc="3946865108" seo="true" mt="1472684133000"/>
+    <file name="thescream.jpg" crc="509006572" seo="true" mt="1472718954000"/>
+    <file name="haunted_1.jpg" crc="3813508746" seo="true" mt="1472719480000"/>
+    <file name="verbotenebilder.jpg.jpg" crc="4022996178" seo="true" mt="1472724467000"/>
+    <file name="the_silence_of_the_shepherd.jpg" crc="268105307" seo="true" mt="1472809710000"/>
+    <file name="daech.jpg" crc="322236534" seo="true" mt="1472725827000"/>
+    <file name="flavia_ghisalberti.jpg" crc="3829204388" seo="true" mt="1472724712000"/>
+    <file name="crossing_the_border_.jpg" crc="4100566942" seo="true" mt="1472724763000"/>
+    <file name="youtube.jpg" crc="4229954449" seo="true" mt="1474925130000"/>
+    <file name="youtube-bis_zu_4k.webm" crc="197493324" seo="true" mt="1474925119000"/>
+    <file name="aubewebsite4.mp4" crc="4041383218" seo="true" mt="1474925064000"/>
+    <file name="a2_plakat_005.jpeg" crc="111928687" seo="true" mt="1472049500000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:festival:programm:träger:tickets:philosophie:hintergrund:festival-2015:haftungsbeschluss"/>
+    <file name="museutils.js" crc="3851988764" ref="index:festival:programm:träger:tickets:philosophie:hintergrund:festival-2015:haftungsbeschluss"/>
+    <file name="whatinput.js" crc="86476730" ref="index:festival:programm:träger:tickets:philosophie:hintergrund:festival-2015:haftungsbeschluss"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:festival:programm:träger:tickets:philosophie:hintergrund:festival-2015:haftungsbeschluss"/>
+    <file name="webpro.js" crc="4067903014" ref="index:festival:programm:träger:tickets"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:festival:programm:träger:tickets"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:festival:programm:träger:tickets"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:festival:programm:träger:tickets"/>
+    <file name="pie.js" crc="3831537696" ref="index:träger"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:festival:programm:träger:tickets"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:festival:programm:träger:tickets:philosophie:hintergrund:festival-2015:haftungsbeschluss"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:festival:träger"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:festival:programm:träger:tickets"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:festival:programm:träger:tickets:philosophie:hintergrund:festival-2015"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:festival:programm:träger:tickets:philosophie:hintergrund"/>
+    <file name="require.js" crc="4108833657" ref="index:festival:programm:träger:tickets:philosophie:hintergrund:festival-2015:haftungsbeschluss"/>
+  </folder>
+  <folder name="images">
+    <file name="background_hd_web2.jpg" crc="171517415" seo="true" ref="index:festival:programm:träger:tickets"/>
+    <file name="blank.gif" crc="4208392903" ref="index:festival:programm:träger:tickets:philosophie:hintergrund"/>
+    <file name="loading.gif" crc="3815509949" ref="index:festival:programm:träger"/>
+    <file name="aube_arab.png" crc="341745326" seo="true" ref="index"/>
+    <file name="menubackgroundtop.jpg" crc="4155484487" ref="index:träger"/>
+    <file name="facebook.png" crc="4235369917" seo="true" ref="index:festival:programm:träger:tickets"/>
+    <file name="background2top.jpg" crc="523155133" ref="index:festival:träger"/>
+    <file name="touchmenubackground.jpg" crc="166699430" ref="index:festival:träger"/>
+    <file name="facebook-crop-u405165.png" crc="112497412" ref="index:festival:programm:träger:tickets"/>
+    <file name="aube_arab494x533.png" crc="3765562360" seo="true" ref="index"/>
+    <file name="aube_arab265x286.png" crc="409331022" seo="true" ref="index"/>
+    <file name="edward_said.jpg" crc="3961273321" seo="true" ref="festival"/>
+    <file name="homeland_iraq_year_zero_1-crop-u461307.jpg" crc="168566253" ref="programm"/>
+    <file name="2-crop-u461313.jpg" crc="73293279" ref="programm"/>
+    <file name="haunted_1-crop-u461305.jpg" crc="303189181" ref="programm"/>
+    <file name="maxresdefault-crop-u461309.jpg" crc="456613913" ref="programm"/>
+    <file name="crossing_the_border_-crop-u461311.jpg" crc="115409888" ref="programm"/>
+    <file name="homeland_iraq_year_zero_1.jpg" crc="4051252213" seo="true" ref="programm"/>
+    <file name="2.jpg" crc="4236412108" seo="true" ref="programm"/>
+    <file name="haunted_1.jpg" crc="228214096" seo="true" ref="programm"/>
+    <file name="maxresdefault.jpg" crc="3956814557" seo="true" ref="programm"/>
+    <file name="crossing_the_border_.jpg" crc="3914597985" seo="true" ref="programm"/>
+    <file name="rupp_katharina2.jpg" crc="4136528522" seo="true" ref="träger"/>
+    <file name="cms.jpg" crc="3787628540" seo="true" ref="träger"/>
+    <file name="artlink.jpg" crc="4189606760" seo="true" ref="träger"/>
+    <file name="swissfondsbs2f0.jpg" crc="481739437" seo="true" ref="träger"/>
+    <file name="universitaetbasel.jpg" crc="195559282" seo="true" ref="träger"/>
+    <file name="kultkino2.png" crc="4261760663" seo="true" ref="tickets"/>
+  </folder>
+  <file name="index.html" crc="24511588" seo="true" mt="1475483683544" redirect="true"/>
+  <file name="festival.html" crc="4081894036" seo="true" mt="1475483683544" redirect="true"/>
+  <file name="programm.html" crc="3765194053" seo="true" mt="1475483683544" redirect="true"/>
+  <file name="träger.html" crc="219294008" seo="true" mt="1475483795992" redirect="true"/>
+  <file name="tickets.html" crc="3919268893" seo="true" mt="1475483683544" redirect="true"/>
+  <file name="philosophie.html" crc="231311844" seo="true" mt="1474012650083" redirect="true"/>
+  <file name="hintergrund.html" crc="4205188085" seo="true" mt="1470318774301" redirect="false"/>
+  <file name="festival-2015.html" crc="462379696" seo="true" mt="1473707542186" redirect="false"/>
+  <file name="haftungsbeschluss.html" crc="3979624385" seo="true" mt="1474833253637" redirect="true"/>
+  <site>
+    <asset filename="in-the-sands-of-babylon.jpg" muse_href="upload:U288575"/>
+    <asset filename="aube.jpg" muse_href="upload:U288613"/>
+    <asset filename="return-to-homs.jpg" muse_href="upload:U288651"/>
+    <asset filename="balimage.jpg" muse_href="upload:U288653"/>
+    <asset filename="homeland_iraq_year_zero_1.jpg" muse_href="upload:U288655"/>
+    <asset filename="the-secret-of-seven-sisters.jpg" muse_href="upload:U288657"/>
+    <asset filename="thescream.jpg" muse_href="upload:U288695"/>
+    <asset filename="haunted_1.jpg" muse_href="upload:U288751"/>
+    <asset filename="verbotenebilder.jpg.jpg" muse_href="upload:U288771"/>
+    <asset filename="the_silence_of_the_shepherd.jpg" muse_href="upload:U288773"/>
+    <asset filename="daech.jpg" muse_href="upload:U288775"/>
+    <asset filename="flavia_ghisalberti.jpg" muse_href="upload:U288777"/>
+    <asset filename="crossing_the_border_.jpg" muse_href="upload:U288779"/>
+    <asset filename="youtube.jpg" muse_href="upload:U392258"/>
+    <asset filename="a2_plakat_005.jpeg" muse_href="upload:U524229"/>
+    <asset filename="aubewebsite4.mp4" muse_href="upload:U554183"/>
+    <asset filename="youtube-bis_zu_4k.webm" muse_href="upload:U554185"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="AUBE" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U5161" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U298284" maxwidth="596" minwidth="321" squishy="true"/>
+        <breakpoint uid="U3508" maxwidth="960" minwidth="597" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1160" minwidth="961" squishy="false"/>
+      </page>
+      <masterPage name="SITE2016" master="U62" uid="U72">
+        <breakpoint uid="U3718" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U94" maxwidth="960" minwidth="321" squishy="true"/>
+        <breakpoint uid="U248946" maxwidth="1160" minwidth="961" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="FESTIVAL" filename="festival.html" muse_href="page:U1602" master="U72">
+        <breakpoint uid="U149250" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U1592" maxwidth="1160" minwidth="961" squishy="false"/>
+        <anchor name="Hintergrund" html_id="hintergrund" muse_href="anchor:U1591:U149758" includeInBPs="U149250,U1592"/>
+        <anchor name="Philosophie" html_id="philosophie" muse_href="anchor:U1591:U171898" includeInBPs="U149250,U1592"/>
+      </page>
+      <page name="PROGRAMM" filename="programm.html" muse_href="page:U1793" master="U72">
+        <breakpoint uid="U185724" maxwidth="596" minwidth="0" squishy="true"/>
+        <breakpoint uid="U174971" maxwidth="960" minwidth="597" squishy="true"/>
+        <breakpoint uid="U249336" maxwidth="1160" minwidth="961" squishy="true"/>
+        <anchor name="Festivalprogramm" html_id="festivalprogramm" muse_href="anchor:U1780:U416296" includeInBPs="U185724,U174971,U249336"/>
+        <anchor name="Workshop" html_id="workshop" muse_href="anchor:U1780:U416301" includeInBPs="U185724,U174971,U249336"/>
+      </page>
+      <page name="TRÄGER" filename="träger.html" muse_href="page:U2145" master="U72">
+        <breakpoint uid="U479650" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U480291" maxwidth="596" minwidth="321" squishy="true"/>
+        <breakpoint uid="U166403" maxwidth="960" minwidth="597" squishy="true"/>
+        <breakpoint uid="U2133" maxwidth="1160" minwidth="961" squishy="false"/>
+        <anchor name="Partner" html_id="partner" muse_href="anchor:U2132:U166598" includeInBPs="U479650,U480291,U166403,U2133"/>
+        <anchor name="Festivalteam" html_id="festivalteam" muse_href="anchor:U2132:U166602" includeInBPs="U479650,U480291,U166403,U2133"/>
+        <anchor name="Traeger" html_id="traeger" muse_href="anchor:U2132:U166606" includeInBPs="U479650,U480291,U166403,U2133"/>
+      </page>
+      <page name="TICKETS" filename="tickets.html" muse_href="page:U2634" master="U72">
+        <breakpoint uid="U519768" maxwidth="596" minwidth="0" squishy="true"/>
+        <breakpoint uid="U168890" maxwidth="960" minwidth="597" squishy="true"/>
+        <breakpoint uid="U2622" maxwidth="1160" minwidth="961" squishy="false"/>
+        <anchor name="Anfahrt" html_id="anfahrt" muse_href="anchor:U2621:U168961" includeInBPs="U519768,U168890,U2622"/>
+        <anchor name="festivalzentrum" html_id="festivalzentrum" muse_href="anchor:U2621:U168965" includeInBPs="U519768,U168890,U2622"/>
+      </page>
+      <page name="Philosophie" filename="philosophie.html" muse_href="page:U16142" master="U65232">
+        <breakpoint uid="U109240" maxwidth="320" minwidth="0" squishy="false"/>
+        <breakpoint uid="U108902" maxwidth="960" minwidth="321" squishy="true"/>
+        <breakpoint uid="U16120" maxwidth="1160" minwidth="961" squishy="false"/>
+      </page>
+      <masterPage name="blank" master="U62" uid="U65232">
+        <breakpoint uid="U65233" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Haftungsbeschluss" filename="haftungsbeschluss.html" muse_href="page:U45298" master="U65232">
+        <breakpoint uid="U45264" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Hintergrund" filename="hintergrund.html" muse_href="page:U101556" master="U65232">
+        <breakpoint uid="U147696" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U101522" maxwidth="1160" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Festival 2015" filename="festival-2015.html" muse_href="page:U373046" master="U65232">
+        <breakpoint uid="U373006" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
