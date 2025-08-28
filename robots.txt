@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aubefilmfestival.github.io/ch1/sitemap.xml
