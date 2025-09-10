@@ -3,90 +3,67 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/index.htm/</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- About -->
+  <!-- AUTRE REGARD -->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/about.html</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/autre-regard/index.htm</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Contact -->
+  <!-- PROGRAMM – PROGRAM -->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/contact.html</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/programm/index.htm</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Program / Schedule -->
+  <!-- AUBE FILMFESTIVAL -->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/program.html</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/aube-filmfestival/index.htm</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Films -->
+  <!-- TICKETS & VENUES -->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/films.html</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/tickets-venues/index.htm</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Jury -->
+  <!-- EVENTS-->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/jury.html</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/events/index.htm</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Awards -->
+  <!-- PARTNER -->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/awards.html</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/partner/index.htm</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- News / Blog -->
+  <!-- TEam -->
   <url>
-    <loc>https://aubefilmfestival.github.io/ch1/news.html</loc>
+    <loc>https://aubefilmfestival.github.io/ch1/team/index.htm</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Tickets -->
-  <url>
-    <loc>https://aubefilmfestival.github.io/ch1/tickets.html</loc>
-    <lastmod>2025-09-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Gallery -->
-  <url>
-    <loc>https://aubefilmfestival.github.io/ch1/gallery.html</loc>
-    <lastmod>2025-09-04</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Sponsors -->
-  <url>
-    <loc>https://aubefilmfestival.github.io/ch1/sponsors.html</loc>
-    <lastmod>2025-09-04</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
 
 </urlset>
